@@ -45,5 +45,14 @@ Here are all my Machine Learning/LLMs/Deep Learning Notebooks.
 - Built an **interactive Gradio-based UI** for users to input Python code, customize parameters, and view **real-time C++ output**.  
 - Enhanced **usability and efficiency**, enabling **seamless Python-to-C++ translation** with minimal developer effort.  
 - Integrated **modern programming standards** and best practices to ensure **high-quality, clean C++ code generation**.  
-- Delivered a practical tool for **improving performance** or transitioning **Python prototypes to production-grade C++**.  
+- Delivered a practical tool for **improving performance** or transitioning **Python prototypes to production-grade C++**.
+  
+**Predictive Modeling for Kaggle Competitions**:
+- Designed and implemented **machine learning models** for Kaggle competitions (**House Prices Prediction**, **Titanic Disaster**), achieving **over 80% accuracy** in both.  
+- Utilized **feature engineering**, **exploratory data analysis (EDA)**, and **data preprocessing** to extract insights and enhance model performance.  
+- Applied **ensemble methods** like **Random Forests** and **Gradient Boosting** to address prediction challenges.  
+- Conducted **hyperparameter tuning** and **model evaluation** to optimize performance and ensure robustness.  
+- Demonstrated **problem-solving skills** by applying **data-driven approaches** to real-world predictive tasks.
+
+  
   
