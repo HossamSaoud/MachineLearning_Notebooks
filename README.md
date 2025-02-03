@@ -54,5 +54,39 @@ Here are all my Machine Learning/LLMs/Deep Learning Notebooks.
 - Conducted **hyperparameter tuning** and **model evaluation** to optimize performance and ensure robustness.  
 - Demonstrated **problem-solving skills** by applying **data-driven approaches** to real-world predictive tasks.
 
+# **PyTorch: Linear Regression, CNN, and ANN**
+
+## **1. Introduction**
+- Overview of PyTorch and its libraries  
+- Implementing Linear Regression, CNN, and ANN efficiently  
+
+## **2. Setup**
+- Install and import necessary libraries  
+- Enable GPU acceleration if available  
+
+## **3. Linear Regression**
+- Generate synthetic data using `torch.randn`  
+- Define model with `torch.nn.Linear`  
+- Train using MSE loss and SGD optimizer  
+- Plot regression results  
+
+## **4. Convolutional Neural Network (CNN)**
+- Load MNIST/CIFAR-10 with `torchvision.datasets`  
+- Normalize and batch data using DataLoader  
+- Define CNN with convolution, pooling, and fully connected layers  
+- Train using Cross-Entropy loss and Adam optimizer  
+- Evaluate accuracy on test data  
+
+## **5. Artificial Neural Network (ANN)**
+- Prepare tabular data with `torch.utils.data.TensorDataset`  
+- Define MLP using `torch.nn.Sequential`  
+- Train using BCE/Cross-Entropy loss and Adam optimizer  
+- Evaluate performance  
+
+## **6. Summary**
+- Key insights from Linear Regression, CNN, and ANN  
+- Future exploration in deep learning  
+
+
   
   
